@@ -2,10 +2,10 @@
 
 \*\* This API is also deployed to heroku and can be access through following URL : https://loanstreetapi.herokuapp.com
   
-  \n ** Endpoints:
-    \n **GET - /loans/{id} - Specific Loan
-   \n **POST - /loans/new - Create Loan
-   \n **PUT - /loans/{id} - Update Loan
+\*\*  **Endpoints:
+   **GET - /loans/{id} - Specific Loan
+   **POST - /loans/new - Create Loan
+   **PUT - /loans/{id} - Update Loan
 
 ** To run the project locally follow below steps
 ** npm install on base directory
