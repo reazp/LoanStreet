@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "loan",
+    "host": "localhost",
+    "dialect": "mysql",
+    "dialectOptions": {
+      "socketPath": "/Applications/MAMP/tmp/mysql/mysql.sock"
+    }
+  },
+  "production": {
+    "username": "befdbdfd270ad9",
+    "password": "2e19a5b0",
+    "database": "heroku_b3871131e23c22a",
+    "host": "us-cdbr-east-02.cleardb.com",
+    "dialect": "mysql"
+  }
+}
